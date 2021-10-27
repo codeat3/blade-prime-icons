@@ -2,7 +2,7 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-codicons/compare/1.0.0...main)
+## [Unreleased](https://github.com/codeat3/blade-prime-icons/compare/1.0.0...main)
 
 ## 1.0.0 (2021-10-25)
 Initial release.
